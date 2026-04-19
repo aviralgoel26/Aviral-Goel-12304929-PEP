@@ -9,7 +9,7 @@ http://35.174.188.54
 ## EC2 Instance Details
 
 * Instance Name: My Portfolio
-* Instance Type: t2.micro
+* Instance Type: t3.micro
 * OS: Amazon Linux 2023
 * Web Server: Apache (httpd)
 * Region: us-east-1
@@ -71,6 +71,12 @@ The website is deployed using an Apache web server and is accessible publicly vi
 
 <img width="1920" height="1080" alt="Screenshot 2026-04-19 152650" src="https://github.com/user-attachments/assets/29a80fdb-8d05-4274-bc94-7b793380177c" />
 <img width="1917" height="1077" alt="Screenshot 2026-04-19 153410" src="https://github.com/user-attachments/assets/e1616386-1bf9-4b9b-9810-e14ce60756e1" />
+
+## Challenges Faced
+Initially used apt instead of dnf (Amazon Linux issue)
+Faced issue with HTTP access due to security group configuration
+Confusion in IAM permissions setup
+Region mismatch while checking EC2 instances
 
 
 ##  Learning Outcomes
