@@ -12,7 +12,7 @@ http://52.203.7.222/
 * OS: Amazon Linux 2023
 * Web Server: Apache (httpd)
 * Region: us-east-1
-* Elastic IP: 35.174.188.54
+* Elastic IP: http://52.203.7.222
 
 ---
 
