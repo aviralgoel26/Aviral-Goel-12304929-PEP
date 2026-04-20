@@ -2,8 +2,7 @@
 
 ## Deployed Project Link
 
-http://35.174.188.54
-
+http://52.203.7.222/
 ---
 
 ## EC2 Instance Details
